@@ -30,7 +30,7 @@ const devTony = {
         web: development,
         web: applications
         },
-    personal profile : [' Developer with great analytical and problem-solving capacity, skilled in
+    personalProfile : [' Developer with great analytical and problem-solving capacity, skilled in
                  management of time and resources, with great leadership qualities and
                  teamwork ']
 }

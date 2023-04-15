@@ -5,7 +5,7 @@
 
 ```javascript
 
-const Tony = {
+const devTony = {
     code : [JAVASCRIPT , HTML , CSS , TYPESCRIPT , PHP ] ,
     tools : [REACT, ANGULAR, SYMFONY , NODEJS, SASS,  POSTMAN ] ,
     school : Upgrade-hub,

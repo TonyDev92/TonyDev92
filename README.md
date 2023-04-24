@@ -25,7 +25,7 @@ ABOUT ME 🔭
 const devTony = {
     code : [JAVASCRIPT , HTML , CSS , TYPESCRIPT , PHP ] ,
     tools : [REACT, ANGULAR, SYMFONY , NODEJS, SASS,  POSTMAN ] ,
-    school : Upgrade-hub,
+    school : 'Upgrade-hub',
     method : {
         web: development,
         web: applications

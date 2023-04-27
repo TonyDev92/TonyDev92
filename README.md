@@ -13,6 +13,7 @@ ABOUT ME 🔭
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"/></code>
+ <code><img height="32" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony"/></code>
 <code><img height="32" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL"/></code>
  <code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"/></code>
  <code><img height="32" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php"></code>

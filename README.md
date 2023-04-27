@@ -21,7 +21,7 @@ ABOUT ME 🔭
  <code><img height="32" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"/></code>
  <code><img height="32" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab"/></code>
  <code><img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="PostMan"/><code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"/></code>
 </p>
 <br />
 

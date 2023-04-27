@@ -7,7 +7,7 @@ ABOUT ME 🔭
 <h3 align="center">🚀Languages and Tools:</h3>
 <p align="center"> 
  <code><img height="32" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs"/></code>

@@ -5,7 +5,7 @@
 
 ABOUT ME 🔭
 <h3 align="center">🚀Languages and Tools:</h3>
-<p align="center"> 
+
  <code><img height="32" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS"/></code>
  <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="Sass"/></code>
@@ -21,7 +21,7 @@ ABOUT ME 🔭
  <code><img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="PostMan"/><code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"/></code>
 </p>
-<br />
+
 
 ```javascript
 

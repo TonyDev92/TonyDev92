@@ -19,7 +19,6 @@ ABOUT ME 🔭
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL"/></code>
  <code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"/></code>
  <code><img height="32" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"/></code>
- <code><img height="32" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab"/></code>
  <code><img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="PostMan"/><code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"/></code>
 </p>

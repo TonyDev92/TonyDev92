@@ -47,8 +47,8 @@ const devTony = {
     tools : [REACT, ANGULAR, SYMFONY , NODEJS, SASS,  POSTMAN ] ,
     school : 'Upgrade-hub',
     method : {
-        web: development,
-        web: applications
+        web: 'development',
+        web: 'applications'
         },
     personalProfile : [' Developer with great analytical and problem-solving capacity, skilled in
                  management of time and resources, with great leadership qualities and

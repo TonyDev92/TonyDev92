@@ -10,29 +10,6 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=TonyDev92&show_icons=true&count_private=true&hide_border=true" align="left" />  

@@ -12,12 +12,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TonyDev92&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>   -->
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=TonyDev92&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TonyDev92&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyDev92&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=TonyDev92&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

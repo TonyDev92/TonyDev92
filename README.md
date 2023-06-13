@@ -3,10 +3,10 @@
 
 ### Hi there 👋 I am a fullstack⚡developer specialized in the development of web pages and applications, here you can find some of my work, I hope you like it. 😄
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonyDev92&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TonyDev92&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=aura&hide_border=true" height="150" alt="languages graph"  />
-</div> -->
+</div>
 
 ###
 

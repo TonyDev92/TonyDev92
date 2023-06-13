@@ -7,12 +7,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TonyDev92&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TonyDev92&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=aura&hide_border=true" height="150" alt="languages graph"  />
 </div> -->
-<br/>  
+<!-- <br/>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=TonyDev92&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br/>  
+<br/>   -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TonyDev92&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TonyDev92&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyDev92&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TonyDev92&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br clear="both">
 

@@ -46,9 +46,9 @@ ABOUT ME 🔭
 ```javascript
 
 const devTony = {
-    code : [JAVASCRIPT , HTML , CSS , TYPESCRIPT , PHP ] ,
+    code : [JAVASCRIPT , HTML , CSS , TYPESCRIPT , PHP  , PYTHON] ,
     tools : [REACT, ANGULAR, SYMFONY , NODEJS, SASS,  POSTMAN ] ,
-    school : 'Upgrade-hub',
+    school : 'Upgrade-hub', 'IBM'
     method : {
         web: 'development',
         web: 'applications'

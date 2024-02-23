@@ -43,11 +43,11 @@
 
 ABOUT ME 🔭
  
-```javascript
+```python
 
 const devTony = {
-    code : [JAVASCRIPT , HTML , CSS , TYPESCRIPT , PHP  , PYTHON] ,
-    tools : [REACT, ANGULAR, SYMFONY , NODEJS, SASS,  POSTMAN ] ,
+    code : ["JAVASCRIPT" , "HTML" , "CSS" , "TYPESCRIPT" , "PHP"  , "PYTHON"] ,
+    tools : [REACT, ANGULAR, SYMFONY ,PYSPARK, NODEJS, SASS,  POSTMAN ] ,
     school : 'Upgrade-hub', 'IBM'
     method : {
         web: 'development',

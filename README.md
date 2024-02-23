@@ -46,14 +46,13 @@ ABOUT ME 🔭
 ```python
 
 dev_Tony = {
-    code : ["JAVASCRIPT" , "HTML" , "CSS" , "TYPESCRIPT" , "PHP"  , "PYTHON"] ,
-    tools : [REACT, ANGULAR, SYMFONY ,PYSPARK, NODEJS, SASS,  POSTMAN ] ,
-    school : 'Upgrade-hub', 'IBM'
-    method : {
-        web: 'development',
-        web: 'applications'
+    'code' : ["JAVASCRIPT" , "HTML" , "CSS" , "TYPESCRIPT" , "PHP"  , "PYTHON"] ,
+    'tools' : [REACT, ANGULAR, SYMFONY ,PYSPARK, NODEJS, SASS,  POSTMAN ] ,
+    'school' : ['Upgrade-hub', 'IBM']
+    'method' : {
+        'web': ['development', 'applications']
         },
-    personal_Profile : [' Developer with great analytical and problem-solving capacity, skilled in
+    'personal_Profile' : [' Developer with great analytical and problem-solving capacity, skilled in
                  management of time and resources, with great leadership qualities and
                  teamwork ']
 }

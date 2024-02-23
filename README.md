@@ -48,7 +48,7 @@ ABOUT ME 🔭
 dev_Tony = {
     'code' : ["JAVASCRIPT" , "HTML" , "CSS" , "TYPESCRIPT" , "PHP"  , "PYTHON"] ,
     'tools' : [REACT, ANGULAR, SYMFONY ,PYSPARK, NODEJS, SASS,  POSTMAN ] ,
-    'school' : ['Upgrade-hub', 'IBM']
+    'school' : ['Upgrade-hub', 'IBM'],
     'method' : {
         'web': ['development', 'applications']
         },
